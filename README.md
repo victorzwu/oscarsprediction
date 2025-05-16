@@ -1,5 +1,7 @@
 # Predicting Oscar Nominees: A Multi-Labelling Approach
 
+<a href="oscarsprediction.pdf" target="_blank">Link to the full write-up</a>
+
 **Authors:**
 - Victor Wu, wu.victo@northeastern.edu
 - Macarious Kin Fung Hui, hui.mac@northeastern.edu
